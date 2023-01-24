@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Busra Aktas
-- 👀 I’m interested in front End Technologies
+- 👀 I’m interested in Front End Technologies
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on your frontend projects
 - 📫 dev.busraaktas@gmail.com
