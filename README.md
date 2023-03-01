@@ -1,7 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/pQkgcbJTrvg1B3hJXv/giphy.gif" width="300"/>
+</div>
+
+
+
 - 👋 Hi, I’m Busra Aktas
-- 👀 I’m interested in Front End Technologies
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on your frontend projects
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently interesting MERN projects
+- 💞️ You can contact us to collaborate on your front-end projects.
 - 📫 dev.busraaktas@gmail.com
 
 
