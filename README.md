@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/pQkgcbJTrvg1B3hJXv/giphy.gif" width="300"/>
-</div>
-
-
 
 - 👋 Hi, I’m Busra Aktas
 - 👀 I’m a Frontend Developer
